@@ -1,3 +1,7 @@
+
+![App Developer Data   AI Engineer Animator (2)_page-0001](https://github.com/user-attachments/assets/7f7ed7f9-abaa-4554-8083-4f4934a9a035)
+
+
 - 👋 Hi, I’m @Hariswar8018
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI
