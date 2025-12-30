@@ -2,6 +2,8 @@
 # 👋 Hi, I’m Ayusman Samasi
 ![App Developer Data   AI Engineer Animator (2)_page-0001](https://github.com/user-attachments/assets/7f7ed7f9-abaa-4554-8083-4f4934a9a035)
 
+Hi, I'm Ayusman Samasi, a Data Science student from IIT Madras with 2.5 years of app development experience. I’ve ranked 6th in the IIT Guwahati Genuity Hackathon and top 10 in the CTAI IIT Bombay Hackathon. Hard-working and focused on Japan, I speak Japanese and dream of contributing to the global AI Revolution that would change the WORLD
+
 
 
 
@@ -48,8 +50,7 @@
 
 ### My SnapShot
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariswar8018&theme=tokyo-night&area=true" width="100%">
-<p align="center">
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Hariswar8018&show_icons=true&theme=react&border_radius=10&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="130"/>
   &nbsp;
@@ -57,4 +58,6 @@
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariswar8018&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%"/>
 </p>
+
+
 
