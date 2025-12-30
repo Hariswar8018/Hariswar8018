@@ -45,3 +45,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </div>
+
+### My SnapShot
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariswar8018&theme=tokyo-night&area=true" width="100%">
+<p align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hariswar8018&show_icons=true&theme=react&border_radius=10&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="130"/>
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hariswar8018&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=00E5FF" height="130"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariswar8018&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%"/>
+</p>
+
